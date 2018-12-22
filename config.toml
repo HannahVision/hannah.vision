@@ -1,0 +1,37 @@
+baseURL = "https://hannah.vision/"
+languageCode = "en-us"
+title = "HannahVision"
+theme = "hugo-tracks-theme"
+disqusShortname = ""
+googleAnalytics = ""
+
+
+[params]
+  # Use custom.css for your custom styling
+  style = "default"
+  pages = false
+  description = "HannahVision, a YouTube series"
+  copyright = "&copy;2018 HannahVision"
+  sidebarAbout = [
+    "I am a YouTuber.",
+    "Originally from California, currently based in Ohio."
+  ]
+
+  email = "hannah@hannah.vision"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = ""
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
+  [params.social]
+  email         = "hannah@hannah.vision"
+  youtube       = "https://www.youtube.com/"
