@@ -8,7 +8,7 @@ weight = 0
 categories = [ "Episode", "Series One" ]
 +++
 
-This is the second episode.
+Hannah talks about the multi-color Overwatch playing cards, and then describes some of her favorite HotWheels cars.
 <!--more-->
 
 {{< youtube 6fRfLC_K_CA >}}
