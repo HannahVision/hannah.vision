@@ -2,8 +2,8 @@
 showonlyimage = false
 draft = false
 date = 2018-12-16T20:30:00-05:00
+image = "img/portfolio/episode-one.jpg"
 title = "Episode One"
-weight = 0
 categories = [ "Episode", "Series One" ]
 +++
 
