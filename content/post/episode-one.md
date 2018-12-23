@@ -7,7 +7,7 @@ title = "Episode One"
 categories = [ "Episode", "Series One" ]
 +++
 
-This is the first episode.
+Episode 1 of HannahVision. Hannah talks about toys, games, family, school, and anything else that floats across her mind.
 <!--more-->
 
 {{< youtube -DZyjHaZQ-E >}}
